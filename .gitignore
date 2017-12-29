@@ -1,0 +1,9 @@
+# Confliction files
+*.orig
+/.idea
+.vscode/
+
+# Mac System files
+.DS_Store
+
+/vendor
